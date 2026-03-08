@@ -1,16 +1,33 @@
-### Hi there 👋
+# 👋 Hola, soy Borja
 
-<!--
-**BorjaraDev/borjaraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
-Here are some ideas to get you started:
+💻 Tecnologías:
+- C#
+- .NET
+- WPF
+- Android (Java)
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Proyectos
+
+### 📱 App Android Gestor de Tareas
+App hecha en Java para gestionar tareas.
+
+🔗 Repo: https://github.com/usuario/app-tareas
+
+---
+
+### 🖥️ Aplicación WPF Inventario
+Programa de escritorio en C# con WPF para gestionar inventario.
+
+🔗 Repo: https://github.com/usuario/inventario
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: ...
+- Email: ...
